@@ -1,4 +1,4 @@
-Mogodeanu_Claudiu_321CC_tema2_PCom
+DON'T MAKE THE SAME MISTAKE! USE C++, NOT C!
 
 ! Am utilizat 2 sleep days
 
